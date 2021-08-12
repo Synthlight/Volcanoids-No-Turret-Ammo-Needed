@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No-Turret-Ammo-Needed", "No-Turret-Ammo-Needed.csproj", "{066ABC9B-FB7C-4D88-A6AC-B6A4F29AFBFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base-Mod", "..\Base-Mod\Base-Mod.csproj", "{C9CDEC0F-C83B-4E8F-987F-7DC83889B961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066ABC9B-FB7C-4D88-A6AC-B6A4F29AFBFE}.Debug|x64.ActiveCfg = Debug|x64
+		{066ABC9B-FB7C-4D88-A6AC-B6A4F29AFBFE}.Debug|x64.Build.0 = Debug|x64
+		{066ABC9B-FB7C-4D88-A6AC-B6A4F29AFBFE}.Release|x64.ActiveCfg = Release|x64
+		{066ABC9B-FB7C-4D88-A6AC-B6A4F29AFBFE}.Release|x64.Build.0 = Release|x64
+		{C9CDEC0F-C83B-4E8F-987F-7DC83889B961}.Debug|x64.ActiveCfg = Debug|x64
+		{C9CDEC0F-C83B-4E8F-987F-7DC83889B961}.Debug|x64.Build.0 = Debug|x64
+		{C9CDEC0F-C83B-4E8F-987F-7DC83889B961}.Release|x64.ActiveCfg = Release|x64
+		{C9CDEC0F-C83B-4E8F-987F-7DC83889B961}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9695DCBA-2292-4CAB-A842-FC55A0302072}
+	EndGlobalSection
+EndGlobal
