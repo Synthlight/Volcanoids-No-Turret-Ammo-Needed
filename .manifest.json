@@ -1,4 +1,7 @@
 {
     "LoadGroup": 0,
-    "Version": "1.0"
+    "Version": "1.0",
+    "UniqueModId": "No-Turret-Ammo-Needed",
+    "Title": "No Turret Ammo Needed",
+    "MultiplayerMode": 2
 }
