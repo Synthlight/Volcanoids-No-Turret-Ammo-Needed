@@ -9,7 +9,7 @@ namespace No_Turret_Ammo_Needed {
         [HarmonyTargetMethod]
         [UsedImplicitly]
         public static MethodBase TargetMethod() {
-            return typeof(LowAmmoWarning).GetMethod("HasLowAmmo", BindingFlags.NonPublic | BindingFlags.Instance);
+            return typeof(LowAmmoWarning).GetMethod(nameof(LowAmmoWarning.HasLowAmmo), BindingFlags.NonPublic | BindingFlags.Instance);
         }
 
         [HarmonyPrefix]
